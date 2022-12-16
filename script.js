@@ -183,4 +183,4 @@ var loadScores = function() {
 }
 
 loadScores();
-startBtn.addEventListener("click", createQuiz)
+startBtn.addEventListener("click", createQuiz

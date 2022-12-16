@@ -50,7 +50,7 @@ var createScoreTable = function() {
         scoreCell.className = "table-score-data";
         scoreCell.setAttribute("style", "text-align: right")
         scoreCell.textContent = highScores[i].score;
-        scoreRow.appendChild(scoreCell);
+        scoreRow.appendChild(scoreCell)
     }
 
 }
